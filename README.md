@@ -5,4 +5,4 @@
 ## 2주차
   -Github 사용법
   
-<img width="300" height="400" src="./png/흰둥이.jpeg"></img>
+<img width="300" height="400" src="./png/흰둥이.jpg"></img>
