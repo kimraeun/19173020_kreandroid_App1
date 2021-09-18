@@ -7,3 +7,7 @@
   
 <img width="300" height="400" src="./png/dog.jpeg"></img>
 <img width="300" height="400" src="./png/19173020_toast message.png"></img>
+## 3주차
+
+<img width="300" height="400" src="./png/19173020_naver.png"></img>
+<img width="300" height="400" src="./png/19173020_number.png"></img>
