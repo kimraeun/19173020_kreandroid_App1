@@ -19,4 +19,4 @@
 
 ## 5주차
 
-<img width="300" height="400" src="./png/19173020_number.png"></img>
+<img width="300" height="400" src="./png/19173020_button.png"></img>
