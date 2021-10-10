@@ -23,3 +23,8 @@
 <img width="300" height="400" src="./png/19173020_button2.png"></img>
 
 ## 6주차
+
+<img width="300" height="400" src="./png/6-1.png"></img>
+<img width="300" height="400" src="./png/6-2.png"></img>
+<img width="300" height="400" src="./png/6-3.png"></img>
+<img width="300" height="400" src="./png/6-4.png"></img>
