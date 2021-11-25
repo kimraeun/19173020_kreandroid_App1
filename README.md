@@ -36,5 +36,5 @@
 <img width="300" height="400" src="./png/19173020_11.png"></img>
 
 ## 12주차
-<img width="300" height="400" src="./png/19173020_12.jpeg"></img>
+<img width="300" height="400" src="./png/19173020_12.png"></img>
 
